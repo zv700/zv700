@@ -15,7 +15,7 @@ I am a software development student who is focused on building well-organized an
 - A mobile arcade game featuring Object Oriented Design (OOP) design principles, dynamic collision physics, dynamic mobile state management
 - AI assisted: This program was developed in an academic environment that allowed integration of AI coding assistants in a way that replicated modern industry workflow. Most features and related parameters were setup by hand using provided course materials. AI was used to assist with debugging, troubleshooting syntax errors, and setup of some boilerplate layouts.
 
-<a id="pinned-portfolio><a/>
+<a id="pinned-portfolio"><a/>
 - LinkedIn: https://www.linkedin.com/in/zachary-va-3907b8327/
 
 <!--
