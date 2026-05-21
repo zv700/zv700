@@ -8,13 +8,14 @@ I am a software development student who is focused on building well-organized an
 - Methodologies: Object Oriented Programming
 
 ## Featured project repositories:
-#### [Personal Banking App (Java)](#user-content-pinned)
+#### [Personal Banking App (Java)](#pinned-portfolio)
 - A Object Oriented console-based banking app that loads and saves account data to text file, handles user transactions (deposits, withdrawals), differentiates between bank account types (checking, savings), implemented bonus and penalty features pertaining to consecutive withdrawals or deposits
 
-### [Brickbreaker Android game (Java, XML, Android SDK)](#user-content-pinned)
+### [Brickbreaker Android game (Java, XML, Android SDK)](#pinned-portfolio)
 - A mobile arcade game featuring Object Oriented Design (OOP) design principles, dynamic collision physics, dynamic mobile state management
 - AI assisted: This program was developed in an academic environment that allowed integration of AI coding assistants in a way that replicated modern industry workflow. Most features and related parameters were setup by hand using provided course materials. AI was used to assist with debugging, troubleshooting syntax errors, and setup of some boilerplate layouts.
 
+<a id="pinned-portfolio><a/>
 - LinkedIn: https://www.linkedin.com/in/zachary-va-3907b8327/
 
 <!--
