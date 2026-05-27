@@ -1,6 +1,6 @@
 ## Hello, I am Zachary Va.
 
-- Languages: Java, SQL HTML/CSS, XML, Markdown
+- Languages: Java, SQL, HTML/CSS, XML, Markdown
 - Frameworks: Android SDK
 - Tools: IntelliJ IDEA, Command Line Interface, Git
 - Methodologies: Object Oriented Programming
