@@ -1,8 +1,6 @@
 ## Hello, I am Zachary Va.
 
-I am a software development student who is focused on building well-organized and efficient applicaitons.
-
-- Languages: Java, HTML/CSS, XML
+- Languages: Java, SQL HTML/CSS, XML, Markdown
 - Frameworks: Android SDK
 - Tools: IntelliJ IDEA, Command Line Interface, Git
 - Methodologies: Object Oriented Programming
