@@ -11,7 +11,7 @@ I am a software development student who is focused on building well-organized an
 #### [Personal Banking App (Java)](#pinned-portfolio)
 - An Object Oriented console-based banking app that loads and saves account data to text file, handles user transactions (deposits, withdrawals), differentiates between bank account types (checking, savings), implemented bonus and penalty features pertaining to consecutive withdrawals or deposits
 
-#### [SQL Reference Project — Patient Analytics using mock dataset](#pinned-portfolio)
+#### [SQL Reference Project — Patient Analytics using mock dataset (Basic SQL queries, Markdown)](#pinned-portfolio)
 - Developed a practical repository modeling healthcare records to demonstrate clean data extraction and reporting methods. Features standard SQL query examples for handling data relationships, text filtering, and cleaning missing data values.
 
 ### [Brickbreaker Android game (Java, XML, Android SDK)](#pinned-portfolio)
